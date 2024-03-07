@@ -1,0 +1,56 @@
+{
+	"list": [
+		{
+			"id": 59088032,
+			"firstName": "Jiri Novak",
+			"lastName": "Vika",
+			"streetName": "StreetName",
+			"postCode": 4312,
+			"cityName": "SANDNES",
+			"countryCode": "NO",
+			"isPostBox": true,
+			"addressLine1": "StreetName 1A",
+			"country": "NORWAY",
+			"phoneNumber": 4793488400,
+			"cellularPhoneNumber": 4793488999,
+			"emailAddress": "testguy@gmail.com",
+			"dateOfBirth": "1962-10-01",
+			"hasSecretAddress": false,
+			"isReservedAgainstSalesMaterial": false
+		},
+		{
+			"id": 59088033,
+			"firstName": "Tomas Novak",
+			"lastName": "Vika",
+			"streetName": "Postboks 16",
+			"postCode": 4318,
+			"cityName": "BERGEN",
+			"countryCode": "NO",
+			"isPostBox": true,
+			"addressLine1": "StreetName 1B",
+			"country": "NORWAY",
+			"phoneNumber": 4793488888,
+			"emailAddress": "testguy2@gmail.com",
+			"dateOfBirth": "1963-10-01",
+			"hasSecretAddress": false,
+			"isReservedAgainstSalesMaterial": false
+		},
+		{
+			"id": 59088034,
+			"firstName": "Karel Novak",
+			"lastName": "Vika",
+			"streetName": "StreetName",
+			"postCode": 4319,
+			"cityName": "STAVANGER",
+			"countryCode": "NO",
+			"isPostBox": true,
+			"addressLine1": "StreetName 1C",
+			"country": "NORWAY",
+			"phoneNumber": 4793488777,
+			"emailAddress": "testguy3@gmail.com",
+			"dateOfBirth": "1964-10-01",
+			"hasSecretAddress": false,
+			"isReservedAgainstSalesMaterial": false
+		}
+	]
+}
