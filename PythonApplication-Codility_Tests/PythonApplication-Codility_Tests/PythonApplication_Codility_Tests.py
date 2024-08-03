@@ -1,3 +1,4 @@
+import pytest #https://docs.pytest.org/en/stable/
 from Medium import MediumFunctions
 from Easy import EasyFunctions
 from Others import OthersFunctions
